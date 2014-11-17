@@ -1,0 +1,24 @@
+#eclipse
+/bin
+/.settings
+/.classpath
+
+#idea
+/.idea
+*.iml
+
+#gradle
+/build
+/.gradle
+
+#occupational hazards
+/eclipse/
+/repo/
+/buildSrc
+
+#Patch rejects
+*.rej
+/patches-/
+
+# MCFBuklet changelog
+changelog.txt
